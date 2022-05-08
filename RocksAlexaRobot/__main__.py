@@ -79,10 +79,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[Rocks Alexa](https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg)』
+ ──『[Rocks Alexa](https://telegra.ph/file/9346deb7942bf572158d6.jpg)』
 
 Hey Sweet Heart!!❤️
-I Am *Rocks Alexa* ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴅɪsᴛʀᴏʏ ᴀʟʟ ʀᴜᴍᴇʀs ᴡɪᴛʜ ᴍʏ ᴍᴀɢɪᴄ...\n
+I Am *Stevia Robot* ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴅɪsᴛʀᴏʏ ᴀʟʟ ʀᴜᴍᴇʀs ᴡɪᴛʜ ᴍʏ ᴍᴀɢɪᴄ...\n
 *JOIN OFFICIAL NETWORK* -
 [CHANNEL](t.me/AsadSupport) - [SUPPORT](t.me/Shayri_Music_Lovers)\n
 *SEE POWER HIT - /help*
@@ -93,12 +93,12 @@ PMSTART_CHAT = (
     "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
     "[I'm Dr Asad Ali Project](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
     "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[Hahahahaha I'm Alexa!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[Hahahahaha I'm Stevia!!!!](https://telegra.ph/file/9346deb7942bf572158d6.jpg)", )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="💠 ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💠",
+                            text="💠 ᴀᴅᴅ ꜱᴛᴇᴠɪᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💠",
                             url="t.me/ROCKS_ALEXA_MANAGEMENT_BOT?startgroup=true"),
                     ],
                    [
